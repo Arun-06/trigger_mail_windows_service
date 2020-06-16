@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triggermail", "triggermail.csproj", "{18D1F821-2F68-4A18-AD7B-3D63F47D17EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D1F821-2F68-4A18-AD7B-3D63F47D17EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D1F821-2F68-4A18-AD7B-3D63F47D17EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D1F821-2F68-4A18-AD7B-3D63F47D17EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D1F821-2F68-4A18-AD7B-3D63F47D17EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D872CA90-B744-437E-8202-18A8487FE9E9}
+	EndGlobalSection
+EndGlobal

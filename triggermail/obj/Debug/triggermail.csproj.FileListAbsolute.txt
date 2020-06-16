@@ -1,0 +1,9 @@
+C:\Users\Arun\source\repos\triggermail\bin\Debug\triggermail.exe.config
+C:\Users\Arun\source\repos\triggermail\bin\Debug\triggermail.exe
+C:\Users\Arun\source\repos\triggermail\bin\Debug\triggermail.pdb
+C:\Users\Arun\source\repos\triggermail\obj\Debug\triggermail.csprojAssemblyReference.cache
+C:\Users\Arun\source\repos\triggermail\obj\Debug\triggermail.ProjectInstaller.resources
+C:\Users\Arun\source\repos\triggermail\obj\Debug\triggermail.csproj.GenerateResource.cache
+C:\Users\Arun\source\repos\triggermail\obj\Debug\triggermail.csproj.CoreCompileInputs.cache
+C:\Users\Arun\source\repos\triggermail\obj\Debug\triggermail.exe
+C:\Users\Arun\source\repos\triggermail\obj\Debug\triggermail.pdb
